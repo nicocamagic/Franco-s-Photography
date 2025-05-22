@@ -185,4 +185,10 @@ body {
         padding: 10px;
       }
 
+      canvas{
+        min-height: 50px;
+        right: 87px; 
+        left: -15px
+      }
+
     }
