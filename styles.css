@@ -178,10 +178,11 @@ body {
 
     /* Responsive adjustments */
     @media (max-width: 576px) {
+
       header .carousel-caption {
         bottom: 20%;
         font-size: 0.9rem;
-        max-width: 90%;
+        max-width: 50%;
         padding: 10px;
       }
 
